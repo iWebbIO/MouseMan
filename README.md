@@ -1,4 +1,4 @@
-# Mouse Position Manager
+# MouseMan
 
 A desktop application that allows you to save and restore mouse cursor positions using customizable keyboard shortcuts. Built with Python and Tkinter.
 
