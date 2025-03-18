@@ -7,16 +7,16 @@ A desktop application that allows you to save and restore mouse cursor positions
 - Save current mouse position with a customizable keyboard shortcut (default: Ctrl+Alt+S)
 - Restore mouse position with a customizable keyboard shortcut (default: Ctrl+Alt+D)
 - User-friendly GUI interface
-- Persistent settings storage
 - Customizable keyboard shortcuts
 - Real-time status updates
+- In-memory position storage
 
 ## Installation
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/mouse_position_manager.git
-cd mouse_position_manager
+git clone https://github.com/yourusername/MouseMan.git
+cd MouseMan
 ```
 
 2. Install the required dependencies:
@@ -36,7 +36,7 @@ python main.py
 3. To change shortcuts:
    - Click the "Change" button next to the shortcut you want to modify
    - Press the new key combination you want to use
-   - The new shortcut will be saved automatically
+   - The new shortcut will be applied immediately
 
 4. Using the application:
    - Press the "Save Position" shortcut (default: Ctrl+Alt+S) to save the current mouse position
